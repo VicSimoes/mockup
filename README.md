@@ -3,7 +3,9 @@ mockup
 
 User Stories and HTML Mockup Pages
 
-#Create a web app that has a medical profiles for patients. Doctors, staff, patients, and family can share information (a bit like facebook).
+#Medical Profiles Web App
+
+Create a web app that has a medical profiles for patients. Doctors, staff, patients, and family can share information (a bit like facebook).
 
 1. All authorized users should be able to upload information.
 
