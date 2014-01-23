@@ -7,6 +7,8 @@ User Stories and HTML Mockup Pages
 
 Create a web app that has a medical profiles for patients. Doctors, staff, patients, and family can share information (a bit like facebook).
 
+https://docs.google.com/spreadsheet/ccc?key=0Alh_BnImfWEBdGZXRmdidXd3RVdmOWtxVEQ5bTgtOXc&usp=sharing
+
 1. As an authorized user, I should be able to upload information.
 
 2. As a user, profile should give holistic view of all patients symptoms and conditions. Current medications, allergies, disabilities and illnesses, family medical history, medical history, etc.
